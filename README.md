@@ -15,7 +15,9 @@ These are: Numpy for mathematics or numerical operations; Matplotlib.pyplot for 
                                                                           
                                                       
 The research detail part contains steps on how I proceeded. These include: dataset investigation, analysis, distributions, relationships and simulations.                                                                                   
-                                                              Conclusion
+                                                             
+                                                             Conclusion
+                                                             
 In conclusion, I have demonstrated how to synthesise and/or simulate a dataset as required in the problem statement. I have selected four variables of interest from the dataset, and investigated their relationships between each other, distributions and simulation. Analyses have shown existence of relationships and variations. Simulation reflected closely the actual dataset properties.  
 
                                                              
